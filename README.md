@@ -1,2 +1,2 @@
 # HTML
-Exercícios e conteúdos de estudo para html5
+Exercícios e conteúdos de estudo para html5.
